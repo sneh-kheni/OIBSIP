@@ -1,2 +1,2 @@
 # OIBSIP
-This is my OASIS internship reop, inside it i am going to upload all the task given by oasis
+This is my OASIS internship repo, inside it i am going to upload all the task given by oasis
